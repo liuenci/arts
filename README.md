@@ -3,7 +3,7 @@
 ## Algorithm
 每周至少做一个leetcode算法题 
 
-+ week1: [136: SingleNumber](https://github.com/wangweiomg/arts/blob/master/week1/SingleNumber.md)
++ week1: [1.两数之和](https://github.com/liuenci/arts/blob/master/week1/%E4%B8%A4%E6%95%B0%E4%B9%8B%E5%92%8C.md)
 
 
 ## Review
