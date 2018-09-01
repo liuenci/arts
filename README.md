@@ -16,6 +16,7 @@
 每周学习至少一个技术技巧, 最好是实际工作学到的
 + week1: [1. 分享一个热部署 JRebel 插件的 Server 地址](https://github.com/liuenci/arts/blob/master/week1/3.Tip.md)
 + week2: [2. 使用 lombok 简化开发流程](https://github.com/liuenci/arts/blob/master/week2/3.Tip.md)
++ week2: [3. 使用 guava 提高开发效率](https://github.com/liuenci/arts/blob/master/week3/3.Tip.md)
 
 ## Share
 每周分享一篇有观点和思考的技术文章
