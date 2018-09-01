@@ -11,7 +11,7 @@
 每周阅读至少一篇英文技术文章 
 + week1: [1.阅读 Spring IOC 英文文档介绍部分](https://github.com/liuenci/arts/blob/master/week1/2.Review.md)
 + week2: [2.阅读 jackson 英文文档](https://github.com/liuenci/arts/blob/master/week2/2.Review.md)
-
++ week3: [3.阅读 guava 英文文档](https://github.com/liuenci/arts/blob/master/week3/2.Review.md)
 ## Tip
 每周学习至少一个技术技巧, 最好是实际工作学到的
 + week1: [1. 分享一个热部署 JRebel 插件的 Server 地址](https://github.com/liuenci/arts/blob/master/week1/3.Tip.md)
